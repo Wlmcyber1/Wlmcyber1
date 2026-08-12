@@ -11,8 +11,7 @@
 
 - Atualmente estagiando na **Performa IT**, dentro do **Programa Forma 2026**
 - Estudante de **Análise e Desenvolvimento de Sistemas**
-- Me aprofundando em **React** e bancos de dados relacionais na prática, construindo projetos reais
-- Gosto de aprender fazendo: cada bug resolvido é um conceito fixado
+
 
 ---
 
