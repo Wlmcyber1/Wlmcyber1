@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Leticia Moreira 👋</h1>
-<h3 align="center">pode me chamar de Moreira</h3>
+
 
 <p align="center">
   💻 Dev em formação &nbsp;|&nbsp; 🏢 Estagiária na Performa IT (Programa Forma 2026) &nbsp;|&nbsp; 🎓 Estudante de ADS
