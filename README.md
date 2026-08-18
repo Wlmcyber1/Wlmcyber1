@@ -17,7 +17,7 @@ Gosto de transformar ideias em interfaces funcionais, responsivas e intuitivas. 
  
 Obtive experiências anteriores com atendimento ao cliente que me ensinaram algo que levo para qualquer projeto: entender as pessoas é tão importante quanto entender o código.
  
-Estou no início da minha trajetória profissional, aprendendo todos os dias, construindo experiência e buscando evoluir constantemente como desenvolvedora. Fique à vontade para verificar meus projetos. Estou sempre aberta a trocar experiências e conversar :)
+Estou no início da minha trajetória profissional, aprendendo todos os dias, construindo experiência e buscando evoluir constantemente como desenvolvedora. Fique à vontade para verificar meus projetos. Estou sempre aberta a trocar experiências e conversar 
 
 
 ---
