@@ -11,8 +11,6 @@
 
 Olá! Meu nome é Letícia =)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Unichristus e atualmente estagiária de Frontend na Performa IT, onde faço parte do Projeto Forma.
- 
 Gosto de transformar ideias em interfaces funcionais, responsivas e intuitivas. Trabalho principalmente com HTML, CSS, JavaScript, React, Java e Python sempre buscando desenvolver soluções que façam sentido tanto tecnicamente quanto para quem vai utilizá-las.
  
 Obtive experiências anteriores com atendimento ao cliente que me ensinaram algo que levo para qualquer projeto: entender as pessoas é tão importante quanto entender o código.
