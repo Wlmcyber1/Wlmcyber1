@@ -19,10 +19,6 @@ Gosto de transformar ideias em interfaces **funcionais, responsivas e intuitivas
 
 - 🏢 Estagiária na **Performa IT** pelo programa **Forma 2026**
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🌱 Hoje estou me aprofundando em **React, Java/Spring Boot e Supabase**
-- 🤝 Já trabalhei com atendimento ao cliente, e isso me ensinou que **entender as pessoas é tão importante quanto entender o código**
-- 💬 Pode falar comigo sobre front-end, UI/UX e projetos que saem do papel
-- ⚡ Já fiz de landing page 3D a app Android e API REST 😄
 
 ---
 
