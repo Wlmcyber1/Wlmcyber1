@@ -1,47 +1,58 @@
-<h1 align="center">Olá, eu sou a Leticia Moreira 👋</h1>
-
+<h1 align="center">Oi, eu sou a Letícia Moreira 👋</h1>
 
 <p align="center">
-  💻 Dev em formação &nbsp;|&nbsp; 🏢 Estagiária na Performa IT (Programa Forma 2026) &nbsp;|&nbsp; 🎓 Estudante de ADS
+  <a href="https://github.com/Wlmcyber1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Dev+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Estagi%C3%A1ria+na+Performa+IT+%F0%9F%8F%A2;Estudante+de+ADS+%F0%9F%8E%93;Transformando+ideias+em+interfaces+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wlmcyber1&color=a855f7&style=flat-square&label=visitas" alt="visitas" />
+  <a href="https://meu-portfolio-five-ruby.vercel.app"><img src="https://img.shields.io/badge/Meu_portf%C3%B3lio-a855f7?style=flat-square&logo=vercel&logoColor=white" alt="portfólio" /></a>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Olá! Meu nome é Letícia =)
+Gosto de transformar ideias em interfaces **funcionais, responsivas e intuitivas** — e de resolver problemas reais com código.
 
-Gosto de transformar ideias em interfaces funcionais, responsivas e intuitivas. Trabalho principalmente com HTML, CSS, JavaScript, React, Java e Python sempre buscando desenvolver soluções que façam sentido tanto tecnicamente quanto para quem vai utilizá-las.
- 
-Obtive experiências anteriores com atendimento ao cliente que me ensinaram algo que levo para qualquer projeto: entender as pessoas é tão importante quanto entender o código.
- 
-Estou no início da minha trajetória profissional, aprendendo todos os dias, construindo experiência e buscando evoluir constantemente como desenvolvedora. 
-
+- 🏢 Estagiária na **Performa IT** pelo programa **Forma 2026**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🌱 Hoje estou me aprofundando em **React, Java/Spring Boot e Supabase**
+- 🤝 Já trabalhei com atendimento ao cliente, e isso me ensinou que **entender as pessoas é tão importante quanto entender o código**
+- 💬 Pode falar comigo sobre front-end, UI/UX e projetos que saem do papel
+- ⚡ Já fiz de landing page 3D a app Android e API REST 😄
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias que uso
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,kotlin,androidstudio,nodejs,postgres,mysql,supabase,docker,git&perline=8" alt="tecnologias" />
+</p>
 
 ---
 
 ### 📌 Projetos em destaque
 
-- **Sistema de Consultoria Alimentar** — Plataforma web (React + Supabase/PostgreSQL) para registro de visitas técnicas, cálculo automático de folha de pagamento e geração de relatórios em PDF. Projeto pessoal, criado para resolver um problema real de uma empresa de consultoria e vistoria de empresas alimentícias.
-
-- **Agência Bancária** — Sistema em Java simulando operações bancárias (contas, transações, regras de negócio).
-
-- **Calculadora Tributária** — Ferramenta para cálculo de tributos, aplicando lógica de regras fiscais em código.
+| Projeto | O que é | Stack |
+|---|---|---|
+| 🥗 [**Sistema de Consultoria Alimentar**](https://github.com/Wlmcyber1/Projeto-Rh) | Registro de visitas técnicas, fechamento de folha e relatórios em PDF para uma consultoria real | React · Supabase |
+| 📚 [**Biblioteca Virtual**](https://github.com/Wlmcyber1/Biblioteca-Virtual-Backend) | API REST de livros, autores e editoras com Swagger e Docker | Java · Spring Boot · PostgreSQL |
+| 📊 [**Calculadora Tributária**](https://github.com/Wlmcyber1/PROJETO-DAF-WEB-2026) | Compara tributação PF x PJ com gráficos e envio de relatório por e-mail | React · Node · PostgreSQL |
+| 🍝 [**Pastaria Totem**](https://github.com/Wlmcyber1/Projeto-Restaurante) | App Android de autoatendimento para restaurante | Kotlin · Jetpack Compose |
+| 💰 [**Maglo**](https://github.com/Wlmcyber1/Projeto-GerenciadorGastos) | Gerenciador de finanças pessoais com gráficos de gastos | React |
 
 ---
 
-<p align="center">📫 Fica à vontade pra dar uma olhada nos repositórios e trocar uma ideia sobre algum projeto!</p>
+### 📊 Meu GitHub em números
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wlmcyber1&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlmcyber1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="linguagens" />
+</p>
+
+---
+
+<p align="center">📫 Fica à vontade pra explorar os repositórios e trocar uma ideia sobre qualquer projeto!</p>
