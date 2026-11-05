@@ -46,13 +46,4 @@ Gosto de transformar ideias em interfaces **funcionais, responsivas e intuitivas
 
 ---
 
-### 📊 Meu GitHub em números
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wlmcyber1&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlmcyber1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="linguagens" />
-</p>
-
----
-
 <p align="center">📫 Fica à vontade pra explorar os repositórios e trocar uma ideia sobre qualquer projeto!</p>
