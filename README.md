@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 
-Gosto de transformar ideias em interfaces **funcionais, responsivas e intuitivas** — e de resolver problemas reais com código.
+Gosto de transformar ideias em interfaces **funcionais, responsivas e intuitivas** e de resolver problemas reais com código.
 
 - 🏢 Estagiária na **Performa IT** pelo programa **Forma 2026**
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
