@@ -17,7 +17,7 @@
 
 Gosto de transformar ideias em interfaces **funcionais, responsivas e intuitivas** e de resolver problemas reais com código.
 
-- 🏢 Estagiária na **Performa IT** pelo programa **Forma 2026**
+- 🏢 Desenvolvedora de Software na **Performa IT**
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
